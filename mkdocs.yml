@@ -1,0 +1,18 @@
+site_name: Welcome to Maker Bhavan Foundation 
+
+theme :
+    name : material
+    palette:
+        primary: red
+
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Hindi
+      link: /hi/
+      lang: hi
+
+hgh
+
