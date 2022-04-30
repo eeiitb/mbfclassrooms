@@ -1,17 +1,47 @@
-site_name: Welcome to Maker Bhavan Foundation 
+site_name: MBF Classrooms at EE, IIT Bombay
+theme:
+  name: material
+  logo: assets/eeiitb.png
+  favicon: assets/eeiitb-small.png
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: teal
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: teal
 
-theme :
-    name : material
-    palette:
-        primary: red
-
-extra:
-  alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: Hindi
-      link: /hi/
-      lang: hi
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
 
 
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Overview: index.md
+  - Collaborative Classroom:
+    - cc/index.md
+    - Facilities: cc/facilities.md
+    - Booking: cc/booking.md
+    - CLS Talk Notes: cc/cls-talk-notes.md
+  - Experiential Learning Laboratory:
+    - ell/index.md
+    - Equipment: ell/equipment.md
+  - Blog:
+    - blog/index.md
+    - 2022:
+      - blog/2022/inauguration.md
+      - blog/2022/first-lecture-in-cc.md
