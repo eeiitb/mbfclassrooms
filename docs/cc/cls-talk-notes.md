@@ -51,10 +51,10 @@ Here are some salient points from her talk.
     * Instructor designs activities that **require a majority of students** to talk, write, reflect, and express their thinking.
     * It requires students to engage cognitively and meaningfully with the course content.
 * *Example*: Suppose a student is listening to a lecture. The following list describes student actions in **increasing order of cognitive engagement**.
-        * Listening without doing anything else
-        * Taking verbatim notes, copying solution steps, repeating or rehearsing
-        * Reflecting out loud, drawing concept maps, asking questions
-        * Defending and arguing a position in pairs or small group
+    * Listening without doing anything else
+    * Taking verbatim notes, copying solution steps, repeating or rehearsing
+    * Reflecting out loud, drawing concept maps, asking questions
+    * Defending and arguing a position in pairs or small group
 * The above example is an instance of the **ICAP Framework** which stands for Interactive, Constructive, Active, Passive (in reverse order in the example).
 *  [Michelene T. H. Chi & Ruth Wylie (2014), The ICAP Framework: Linking Cognitive Engagement to Active Learning Outcomes, Educational Psychologist, 49:4, 219-243](https://www.tandfonline.com/doi/full/10.1080/00461520.2014.965823)
 ### **Active Learning Strategies**
@@ -64,15 +64,15 @@ Here are some salient points from her talk.
 * Think-Pair-Share
         *Frank Lyman, University of Maryland, early 1980s*
 * Many others
-        * Team-Pair-Solo
-        * Problem-based learning
-        * Just-in-Time Teaching
-        * Role-play
-        * Jigsaw
-        * Case-based learning
-        * Peer-review
-        * Flipped classroom
-        * Pair programming
+    * Team-Pair-Solo
+    * Problem-based learning
+    * Just-in-Time Teaching
+    * Role-play
+    * Jigsaw
+    * Case-based learning
+    * Peer-review
+    * Flipped classroom
+    * Pair programming
 #### **Peer Instruction Strategy**
 
 *  Instructor asks a **multiple choice conceptual question**
@@ -102,6 +102,7 @@ Here are some salient points from her talk.
 
 ### Common Features of Effective CLS Activities
 The following points describe strategies which have been seen to be effective in CLSs.
+
 * Most of the **information transmission** in the form of a lecture by the instructor is significantly reduced or **moved out of the classroom**
 * Most activities are supported by **graded** pre-class reading, homework, and quizzes or post-class homework
 * Students often work in **small teams** on activities designed to provide them with a deeper understanding of the topic
