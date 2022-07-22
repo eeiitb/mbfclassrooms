@@ -15,7 +15,7 @@
 
 ## AV Equipment
 
-Currently, the CC has a portable projector and a single speaker in the middle of the room. By June 2022, four TV screens will be installed for projection. A sound system consisting of six speakers (2 wall-mounted, 4 ceiling-mounted) will also be installed.
+There are four TV screens in the CC for projection: two on either side of the stage and two on the sides of the room. A sound system consisting of six speakers (2 wall-mounted, 4 ceiling-mounted) is also installed.
 
 ## Laptops
-By June 2022, the classroom will be equipped with 20 laptops which can be used for computer-based exercises. The idea is that each of the 10 tables will have two laptops each.
+By September 2022, the classroom will be equipped with 20 laptops which can be used for computer-based exercises. The idea is that each of the 10 tables will have two laptops each.
